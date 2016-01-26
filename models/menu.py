@@ -11,7 +11,7 @@ response.title = "M2SIO"
 response.subtitle = 'Maison des Ligues de Lorraine'
 
 ## read more at http://dev.w3.org/html5/markup/meta.name.html
-response.meta.author = 'Valery Tschaen !!!!!!!'
+response.meta.author = 'Valery Tschaen'
 response.meta.description = 'Portail de la maison des Ligues de Lorraine'
 response.meta.keywords = 'Ligues, Lorraine, Sport'
 response.meta.generator = 'Portail de la maison des Ligues de Lorraine'
